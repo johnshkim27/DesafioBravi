@@ -9,3 +9,7 @@ Banco de dados MongoDB com Cluster criado, os ips ja foram liberados para reliaz
 
 front em react js desafio das chaves realizado no react(Front)
 para uso do back e do front é necessario utilizar o npm install ou yarns intall
+
+Os arquivos foram compactados e adicionado na release, devido a pesarem mais de 25 mb. 
+
+qualquer duvida estou a disposição
